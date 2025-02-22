@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,7 +12,7 @@
             box-sizing: border-box;
         }
  body {
-            font-family: 'Arial', sans-serif;
+            font-family: 'Helvetica', sans-serif;
             background: url('2024-06-24.jpg') no-repeat center center fixed; /* Replace 'background.jpg' with your image path */
             background-size: cover; /* This ensures the image covers the whole screen */
             display: flex;
@@ -77,12 +77,12 @@
 </head>
 <body>
 
- <h1>Bienvenido a Villar Tattoo Studio </h1>
+ <h1>BIENVENIDO A VILLAR TATTOO STUDIO </h1>
     <p>Contactanos para consultas/prepuesto/turnos 😊 </p>
 
  <div class="buttons">
         
- <a href="https://wa.me/00595986931956" class="button" target="_blank">
+ <a href="https://wa.me/0986931956" class="button" target="_blank">
             <span class="button-icon">📱</span>Contactanos en WhatsApp
         </a>
         
