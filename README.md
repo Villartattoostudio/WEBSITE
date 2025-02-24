@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -77,7 +76,7 @@
 </head>
 <body>
 
- <h1>Bienvenido a Villar Tattoo Studio </h1>
+ <h1>BIENVENIDO A VILLAR STUDIO </h1>
     <p>Contactanos para consultas/prepuesto/turnos 😊 </p>
 
  <div class="buttons">
